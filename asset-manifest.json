@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtils-React/static/css/main.073c9b0a.css",
-    "main.js": "/TextUtils-React/static/js/main.b14059a7.js",
-    "static/js/787.719ec76d.chunk.js": "/TextUtils-React/static/js/787.719ec76d.chunk.js",
-    "index.html": "/TextUtils-React/index.html",
-    "main.073c9b0a.css.map": "/TextUtils-React/static/css/main.073c9b0a.css.map",
-    "main.b14059a7.js.map": "/TextUtils-React/static/js/main.b14059a7.js.map",
-    "787.719ec76d.chunk.js.map": "/TextUtils-React/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/nabarunds95/TextUtils-React.git/static/css/main.073c9b0a.css",
+    "main.js": "/nabarunds95/TextUtils-React.git/static/js/main.ae376b1a.js",
+    "static/js/787.719ec76d.chunk.js": "/nabarunds95/TextUtils-React.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/nabarunds95/TextUtils-React.git/index.html",
+    "main.073c9b0a.css.map": "/nabarunds95/TextUtils-React.git/static/css/main.073c9b0a.css.map",
+    "main.ae376b1a.js.map": "/nabarunds95/TextUtils-React.git/static/js/main.ae376b1a.js.map",
+    "787.719ec76d.chunk.js.map": "/nabarunds95/TextUtils-React.git/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b14059a7.js"
+    "static/js/main.ae376b1a.js"
   ]
 }
